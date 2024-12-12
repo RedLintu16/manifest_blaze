@@ -11,7 +11,7 @@
 
   <remote name="bitbucket"
           fetch="https://bitbucket.org/projectblaze"
-          revision="15"  />
+          revision="15-qpr"  />
 
   <remote name="codeberg"
           fetch="https://codeberg.org/ProjectBlaze/" 
